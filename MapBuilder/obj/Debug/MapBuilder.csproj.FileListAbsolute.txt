@@ -1,0 +1,10 @@
+C:\Users\Nick\source\repos\MapBuilder\MapBuilder\bin\Debug\MapBuilder.exe.config
+C:\Users\Nick\source\repos\MapBuilder\MapBuilder\bin\Debug\MapBuilder.exe
+C:\Users\Nick\source\repos\MapBuilder\MapBuilder\bin\Debug\MapBuilder.pdb
+C:\Users\Nick\source\repos\MapBuilder\MapBuilder\obj\Debug\MapBuilder.csprojAssemblyReference.cache
+C:\Users\Nick\source\repos\MapBuilder\MapBuilder\obj\Debug\MapBuilder.MapBuilder.resources
+C:\Users\Nick\source\repos\MapBuilder\MapBuilder\obj\Debug\MapBuilder.Properties.Resources.resources
+C:\Users\Nick\source\repos\MapBuilder\MapBuilder\obj\Debug\MapBuilder.csproj.GenerateResource.cache
+C:\Users\Nick\source\repos\MapBuilder\MapBuilder\obj\Debug\MapBuilder.csproj.CoreCompileInputs.cache
+C:\Users\Nick\source\repos\MapBuilder\MapBuilder\obj\Debug\MapBuilder.exe
+C:\Users\Nick\source\repos\MapBuilder\MapBuilder\obj\Debug\MapBuilder.pdb
